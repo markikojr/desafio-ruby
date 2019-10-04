@@ -6,7 +6,7 @@ Este projeto tem o objetivo de desenvolver uma Loja de compra e venda de refeiç
 Nome, Avatar, Descrição, ID, documento de verificação e verificaço
 
 ## Banco de dados:
-SQLITE
+MYSQL
 
 ## Desenvolvimento e conclusões
 1) Segui um tutorial de referência do curso UDEMY: [UDEMY](https://www.udemy.com/course/learn-how-to-build-a-ruby-on-rails-marketplace-from-scratch/).
