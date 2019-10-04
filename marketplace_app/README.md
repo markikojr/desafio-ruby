@@ -18,7 +18,7 @@ MongoDB
 4) Como não sabia desenvolver um gerenciador de cadastro/login busquei referências/exemplos: [Exemplo](https://www.sitepoint.com/build-online-store-rails/).
 5) Segui então para o desenvolvimento do exemplo que pode ser encontrado aqui: [moviestore](https://github.com/markikojr/desafio-ruby/tree/master/Developer/moviestore)  
 6) E também para o curso UDEMY: [curso](https://www.udemy.com/course/learn-how-to-build-a-ruby-on-rails-marketplace-from-scratch/).
-7) Atualmente estou tentando consumir as API's das lojas.
+7) Implementei um script para consumir api's usando rest client: [consuming_api.rb](https://github.com/markikojr/desafio-ruby/tree/master/marketplace_app/consuming_api.rb) Mas ainda preciso entender como importar para o mongodb.
 
 
 
