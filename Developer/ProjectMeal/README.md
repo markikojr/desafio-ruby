@@ -10,12 +10,12 @@ SQLITE
 
 ## Desenvolvimento e conclusões
 1)Segui um tutorial de referência do curso UDEMY: [UDEMY](https://www.udemy.com/course/learn-how-to-build-a-ruby-on-rails-marketplace-from-scratch/).
-1)A estrutura de filme(produto) foi criada. 
-2)O banco de dados MYSQL foi criado. 
-3)Estou implementando devise para cadastro de usuário.
-4)Estabelecendo relações (associações) entre empresas, contatos e produtos. 
-5)Venho enfrentando problemas com a configuração do mysql. Provavelmente devo reinstalar ruby, rails e mysql nas respectivas versões do curso.
-6)Preciso de mais tempo para seguir o curso.
+2)A estrutura de filme(produto) foi criada. 
+3)O banco de dados MYSQL foi criado. 
+4)Estou implementando devise para cadastro de usuário.
+5)Estabelecendo relações (associações) entre empresas, contatos e produtos. 
+6)Venho enfrentando problemas com a configuração do mysql. Provavelmente devo reinstalar ruby, rails e mysql nas respectivas versões do curso.
+7)Preciso de mais tempo para seguir o curso.
 
 
 
