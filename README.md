@@ -1,7 +1,5 @@
 # desafio-ruby
 
-Test....
-
 First step: Fazer fork desse projeto e iniciar teu desafio! :)
 
 
@@ -76,3 +74,14 @@ Estrutura - Produto
 
 
 ** Aí você publica essa aplicação em algum lugar (heroku, que seja) e nos envia o link do github pra vermos seu código. Damos um prazo normalmente de 4 dias, e você entrega o que vc conseguir até lá. Blz?
+
+# Projetos
+
+## Marketplace: [marketplace_app](https://github.com/markikojr/desafio-ruby/tree/master/marketplace_app)
+Projeto criado com o objetivo de desenvolver um marketplace.
+
+## Movie Store: [moviestore](https://github.com/markikojr/desafio-ruby/tree/master/Developer/moviestore)
+Projeto criado com o objetivo de desenvolver uma loja de filmes.
+
+## Project Meal: [ProjectMeal](https://github.com/markikojr/desafio-ruby/tree/master/Developer/ProjectMeal)
+Projeto criado com o objetivo de desenvolver uma loja para vender e comprar refeições.
