@@ -1,9 +1,9 @@
-# Movie Store
+# Project Meal
 
 Este projeto tem o objetivo de desenvolver uma Loja de compra e venda de refeições.
 
-## Estrutura - Filmes:
-Nome, Ano de lançamento, Preço, Descrição, ID e URL
+## Estrutura - Empresa:
+Nome, Avatar, Descrição, ID, documento de verificação e verificaço
 
 ## Banco de dados:
 SQLITE
