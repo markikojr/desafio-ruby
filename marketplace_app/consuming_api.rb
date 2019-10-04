@@ -4,6 +4,8 @@ require 'json'
 
 # Define URL
 url = 'https://www.fossil.com.br/api/catalog_system/pub/products/search/'
+#url = 'http://www.timex.com.br/api/catalog_system/pub/products/search/'
+#url = 'https://www.schumann.com.br/api/catalog_system/pub/products/search/'
 
 # Get method for rest client
 resp = RestClient.get "#{url}"
@@ -15,4 +17,4 @@ response = JSON.parse(resp.body)
 puts resp.code
 
 # Print Json
-#puts JSON.parse(resp.body)
+puts JSON.parse(resp.body)
